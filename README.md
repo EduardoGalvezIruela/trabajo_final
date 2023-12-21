@@ -1,7 +1,7 @@
 # Práctica final programación II
   **Descripción del Proyecto:**
   
-  El proyecto se base de una plataforma interactiva desarrollada en Streamlit que permite la visualización y análisis de datos relacionados con los 2640 individuos más ricos a nivel mundial, conforme a la clasificación elaborada por la revista Forbes. Este grupo de billonarios ha sido sometido a diversas formas de investigación, proporcionando información de interés sobre su patrimonio, origen de su riqueza, y otros aspectos significativos.
+  El proyecto consiste en una plataforma interactiva desarrollada en Streamlit que permite la visualización y análisis de datos relacionados con los 2640 individuos más ricos a nivel mundial, conforme a la clasificación elaborada por la revista Forbes. Este grupo de billonarios ha sido sometido a diversas formas de investigación, proporcionando información de interés sobre su patrimonio, origen de su riqueza, y otros aspectos significativos.
   
   Para facilitar la presentación de los datos, se ha implementado un servidor backend mediante FastAPI. Este backend se encarga de suministrar la información desde el archivo CSV correspondiente al frontend de la aplicación de Streamlit, permitiendo así una experiencia de usuario fluida y dinámica.
   
